@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Next.js**
 
-- 📝 I regularly write articles on [https://medium.com/@gopichandde](https://medium.com/@gopichandde)
+- 📝 I regularly write articles on [https://medium.com/@gopichandbusam](https://medium.com/@gopichandbusam)
 
 - 💬 Ask me about **Startups, Flutter**
 
